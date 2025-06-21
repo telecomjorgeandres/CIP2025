@@ -30,7 +30,7 @@ move()
 
 When you hit the run button, your program will execute line-by-line. After it finishes, Karel's world should look like this:
 
-
+#Look at Warmup picture
 
 
 
