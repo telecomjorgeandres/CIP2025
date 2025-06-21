@@ -31,7 +31,7 @@ Even though the program is only a few lines, it is still worth getting at least 
 When you are finished the world should look like this:
 
 
-
+#Look at Assignment picture
 
 
 Confused? No worries. This problem uses material from chapters 1 through 4 in the Karel Reader. Have you read that yet?
