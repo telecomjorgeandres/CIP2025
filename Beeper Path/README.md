@@ -5,4 +5,4 @@ Karel was trying to get back home but got lost! Luckily, they set a path of beep
 
 Take note that we don't know how far away Karel's home is and how many beepers there will be, so make sure your solution works for different worlds! You may assume that the row will never be completely filled with beepers.
 
-#Take a look ath "assigment" picture
+#Take a look ath "assignment" picture
